@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "name": "Wafaa El Husseini, PhD",
+    "headline_old": "R&D Engineer, Ontologist, Data Scientist, AI Engineer, PhD",
+    "headline": "Researcher, Ontologist, Data Scientist, AI Engineer",
+    "location": "Paris, France",
+    "email": "elhusseini.wafaa95@gmail.com",
+    "github": "https://github.com/wafaahs",
+    "linkedin": "https://www.linkedin.com/in/wafaa-husseini",
+    "orcid": "https://orcid.org/0000-0003-2344-5769",
+    "bio": "Passionate about artificial intelligence, data science, and semantic web technologies. Experienced in leading R&D projects, teaching, and collaborative research. Open to new challenges and opportunities in tech, AI, and innovation.",
+    "picture": "wafaa.jpeg"
+  },
+  "skills": [
+    { "category": "Programming", "items": ["Python", "Java", "C++", "C#", "PHP", "JavaScript", "Swift", "R", "Prolog", "Lisp"] },
+    { "category": "AI/ML/NLP", "items": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "XGBoost", "Transformers", "RAG", "LangChain"] },
+    { "category": "Data Engineering", "items": ["Spark", "Hadoop", "Hive", "BigQuery", "PostgreSQL", "MySQL", "SQL Server"] },
+    { "category": "Web/Tools", "items": ["Node.js", "Flask", "FastAPI", "Docker", "Git", "Airflow", "Kubernetes"] },
+    { "category": "Visualization", "items": ["D3.js", "Chart.js", "Tableau", "Power BI"] },
+    { "category": "Semantic Web", "items": ["RDF", "OWL", "SPARQL", "Ontologies", "Virtuoso", "Neo4j"] },
+    { "category": "Cloud", "items": ["AWS", "GCP", "SAP Hana"] }
+  ],
+  "experience": [
+    {
+      "role": "R&D AI Project Manager",
+      "org": "ASTEK",
+      "dates": "2024–Present",
+      "location": "Paris, France",
+      "description": "Leading AI and semantic web projects using LLMs, LangChain, RAG/GraphRAG, and ontologies. Managing agile teams and deploying on GCP & AWS."
+    },
+    {
+      "role": "Research & Teaching Assistant",
+      "org": "IRISA-SHAMAN",
+      "dates": "2023–2024",
+      "location": "Lannion, France",
+      "description": "Conducted research and taught Semantic Web, Java, databases, and data visualization."
+    },
+    {
+      "role": "PhD Candidate",
+      "org": "IRISA-SHAMAN",
+      "dates": "2020–2023",
+      "location": "Lannion, France",
+      "description": "Researched efficient data management using semantic technologies and visualization."
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD in Computer Science",
+      "school": "University of Rennes",
+      "dates": "2020–2023",
+      "details": "Efficient analysis-based data management"
+    },
+    {
+      "degree": "MSc in Informatics",
+      "school": "Grenoble INP",
+      "dates": "2018–2020",
+      "details": "AI and the Web"
+    },
+    {
+      "degree": "Bachelor of Business Administration",
+      "school": "AUB",
+      "dates": "2013–2017",
+      "details": "Business Info Systems, Accounting, CS Minor"
+    }
+  ],
+  "languages": ["Arabic", "English", "French", "Korean", "Chinese"],
+  "hobbies": ["Swimming", "Drawing", "Cooking", "Reading", "Gaming", "Movies", "Puzzles", "Traveling", "Language Learning", "Dancing"],
+  "volunteering": [
+    "Student Volunteer @ IRISA & AUB",
+    "Treasurer @ PhD Students' Association of Lannion",
+    "Secretary @ Ahi Na Ma Latin Dance Association"
+  ]
+}
