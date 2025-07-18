@@ -5,8 +5,8 @@
 node_modules/
 
 # Vite/React build output
-dist/
-build/
+#dist/
+#build/
 
 # Log files
 npm-debug.log*
