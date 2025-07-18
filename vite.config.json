@@ -4,5 +4,5 @@
       "@vitejs/plugin-react"
     ]
   ],
-  "base": "/wafaahs.github.io/"
+  "base": "/"
 }
